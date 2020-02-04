@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="ai-raven_icon.png">
+  <img src="raven.png">
 </p>
 <p align="center">AI-Raven</p>
