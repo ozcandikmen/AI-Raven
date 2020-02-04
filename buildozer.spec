@@ -88,16 +88,16 @@ fullscreen = 0
 android.permissions = INTERNET,RECORD_AUDIO,BATTERY_STATS,WRITE_SETTINGS,VIBRATE
 
 # (int) Target Android API, should be as high as possible.
-android.api = 28
+android.api = 29
 
 # (int) Minimum API your APK will support.
 android.minapi = 21
 
 # (int) Android SDK version to use
-android.sdk = 28
+android.sdk = 29
 
 # (str) Android NDK version to use
-android.ndk = 17c
+android.ndk = 21
 
 # (int) Android NDK API to use. This is the minimum API your app will support, it should usually match android.minapi.
 android.ndk_api = 21
@@ -106,7 +106,7 @@ android.ndk_api = 21
 #android.private_storage = True
 
 # (str) Android NDK directory (if empty, it will be automatically downloaded.)
-android.ndk_path = /home/ozcan/.buildozer/android/platform/android-ndk-r17c
+android.ndk_path = /home/ozcan/.buildozer/android/platform/android-ndk-r21
 
 # (str) Android SDK directory (if empty, it will be automatically downloaded.)
 android.sdk_path = /home/ozcan/.buildozer/android/platform/android-sdk
