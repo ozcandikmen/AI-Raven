@@ -2,4 +2,6 @@
  Artificial Intelligence Raven with face animation
  
  
-<div style="text-align:center"><img src="avatar.jpg" /></div>
+<p align="center">
+  <img width="460" height="300" src="avatar.jpg">
+</p>
