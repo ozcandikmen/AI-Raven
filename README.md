@@ -1,5 +1,4 @@
-<p align="center">
-<center><h5>Artificial Intelligence Raven with face animation</h3></center>
+<p style="text-align: center">Artificial Intelligence Raven with face animation</p>
  
 <br>
 <p align="center">
