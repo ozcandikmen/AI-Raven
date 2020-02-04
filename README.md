@@ -3,4 +3,4 @@
  
  
 ![GitHub Logo](avatar.jpg)
-Format: ![Alt Text](url)
+![Alt Text](url)
