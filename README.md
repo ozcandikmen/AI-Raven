@@ -1,4 +1,4 @@
-<p style="text-align: center">Artificial Intelligence Raven with face animation</p>
+<p align="center">Artificial Intelligence Raven with face animation</p>
  
 <br>
 <p align="center">
