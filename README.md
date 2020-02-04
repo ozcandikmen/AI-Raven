@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.jpg">
+  <img src="ai-raven_icon.png">
 </p>
 
 <h3>
